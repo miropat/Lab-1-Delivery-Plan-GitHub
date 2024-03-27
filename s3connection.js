@@ -1,4 +1,5 @@
 //Generated with ChatGPT - Not real code!!
+//Lisätty linkitys AzureBoardiin
 // Import required modules
 const AWS = require('aws-sdk');
 const fs = require('fs');
