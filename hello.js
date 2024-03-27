@@ -1,4 +1,3 @@
 
-function(){
-alert(5);
-}
+confirm();
+
